@@ -10,6 +10,10 @@ seaborn = "*"
 matplotlib = "*"
 ipykernel = "*"
 openpyxl = "*"
+plotly = "*"
+plotly-express = "*"
+nbformat = "*"
+autopep8 = "*"
 
 [dev-packages]
 
