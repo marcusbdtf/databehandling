@@ -17,6 +17,7 @@ autopep8 = "*"
 lxml = "*"
 python-dotenv = "*"
 requests = "*"
+dash = "*"
 
 [dev-packages]
 
